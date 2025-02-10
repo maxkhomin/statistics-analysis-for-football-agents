@@ -1,0 +1,57 @@
+Player;Age;Squad;Goals
+Brenden Aaronson;21;Leeds United;1
+George Abbott;16;Tottenham;0
+Naouirou Ahamada;20;Crystal Palace;0
+Carlos Alcaraz;19;Southampton;4
+Samuel Amo-Ameyaw;16;Southampton;0
+Elliot Anderson;19;Newcastle Utd;0
+Jaidon Anthony;22;Bournemouth;3
+Yasin Ayari;18;Brighton;0
+Stefan Bajcetic;17;Liverpool;1
+Moisés Caicedo;20;Brighton;1
+Fabio Carvalho;19;Liverpool;2
+Carney Chukwuemeka;18;Chelsea;0
+Bobby Clark;17;Liverpool;0
+Conor Coventry;22;West Ham;0
+Matthew Craig;19;Tottenham;0
+Mikkel Damsgaard;22;Brentford;0
+Danilo;21;Nott'ham Forest;3
+Halil Dervişoğlu;22;Brentford;0
+Cheick Doucouré;22;Crystal Palace;0
+Kami Doyle;16;Southampton;0
+Malcolm Ebiowei;18;Crystal Palace;0
+Harvey Elliott;19;Liverpool;1
+Enzo Fernández;21;Chelsea;0
+Conor Gallagher;22;Chelsea;3
+James Garner;21;Everton;0
+Morgan Gibbs-White;22;Nott'ham Forest;5
+Bryan Gil;21;Tottenham;0
+Billy Gilmour;21;Brighton;0
+João Gomes;21;Wolves;1
+Sam Greenwood;20;Leeds United;1
+Luke Harris;17;Fulham;0
+Joseph Hodge;19;Wolves;0
+Curtis Jones;21;Liverpool;3
+Boubacar Kamara;22;Aston Villa;0
+Dejan Kulusevski;22;Tottenham;2
+Roméo Lavia;18;Southampton;1
+Kobbie Mainoo;17;Manchester Utd;0
+Marquinhos;19;Arsenal;0
+Pape Matar Sarr;19;Tottenham;0
+Lewis Miley;16;Newcastle Utd;0
+Amadou Onana;20;Everton;1
+Dango Ouattara;20;Bournemouth;1
+Cole Palmer;20;Manchester City;0
+Máximo Perrone;19;Manchester City;0
+Cameron Peupion;19;Brighton;0
+Isaac Price;18;Everton;0
+Jacob Ramsey;21;Aston Villa;6
+Albert Sambi Lokonga;22;Arsenal;0
+Albert Sambi Lokonga;22;Crystal Palace;0
+Jeremy Sarmiento;20;Brighton;0
+Oliver Skipp;21;Tottenham;1
+Emile Smith Rowe;22;Arsenal;0
+Boubacar Traoré;20;Wolves;0
+Fabio Vieira;22;Arsenal;1
+Harvey White;20;Tottenham;0
+Joe Willock;22;Newcastle Utd;3

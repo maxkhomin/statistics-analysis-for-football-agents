@@ -1,0 +1,22 @@
+Squad;ALL;DF;FW;GK;MF
+Arsenal;0;10;48;0;26
+Aston Villa;0;3;27;0;19
+Bournemouth;0;4;11;0;22
+Brentford;0;7;36;0;13
+Brighton;0;3;43;0;22
+Chelsea;0;7;21;0;9
+Crystal Palace;0;4;20;0;14
+Em Yu;0;0;0;0;0
+Everton;0;6;18;0;8
+Fulham;0;4;36;0;12
+Leeds United;0;9;33;0;3
+Leicester City;0;5;27;0;17
+Liverpool;0;6;58;0;7
+Manchester City;0;5;66;0;21
+Manchester Utd;0;3;37;0;16
+Newcastle Utd;0;3;47;0;14
+Nott'ham Forest;0;3;22;0;11
+Southampton;0;5;12;0;19
+Tottenham;0;13;31;0;24
+West Ham;0;5;25;0;11
+Wolves;0;4;16;0;8
